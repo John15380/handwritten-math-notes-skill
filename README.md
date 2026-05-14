@@ -14,7 +14,7 @@ Unlike generic PDF-to-Markdown converters, this tool is purpose-built for academ
 
 ## Verified model
 
-The transcription quality depends entirely on the underlying multimodal vision capability. This skill has been **fully tested and validated on kimi 2.6**. It should also work with any other large model that offers comparable visual reasoning (e.g., Claude 4 Sonnet/Opus, GPT-4o).
+The transcription quality depends entirely on the underlying multimodal vision capability. This skill has been **fully tested and validated on kimi 2.6**. It should also work with any other large model that offers comparable visual reasoning.
 
 > **Note:** This repository contains the *Claude Code skill definition* (the orchestration logic). The actual page-reading intelligence comes from the multimodal model you run it with.
 
